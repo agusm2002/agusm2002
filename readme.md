@@ -23,8 +23,3 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" height="75" />
 </p>
 
-## Projects:
-- 
--
--
-
