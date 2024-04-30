@@ -5,7 +5,6 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
 
 ## Software & Tools:
 <p float="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="75" /> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="75" />
@@ -18,6 +17,7 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" height="75" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="75" />
