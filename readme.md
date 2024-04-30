@@ -5,6 +5,7 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
 
 ## Software & Tools:
 <p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="75" /> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="75" />
