@@ -11,7 +11,6 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="75" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" height="75" />
