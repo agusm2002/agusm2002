@@ -21,6 +21,5 @@ I'm Agustín Monti, a Systems Engineering Student from 🇦🇷 Argentina.
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="75" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" height="75" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" height="75" />
 </p>
 
