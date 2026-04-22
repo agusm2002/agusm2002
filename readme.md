@@ -3,7 +3,7 @@
 # Hey, soy Agustín Monti 👋
 ### Systems Engineering Student · 🇦🇷 Argentina
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Linux+%26+Infrastructure+Enthusiast;DevOps+%7C+Networking+%7C+Security;Currently+deep+diving+into+Ansible+%F0%9F%93%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Linux+%26+Infrastructure+Enthusiast;DevOps+%7C+Networking+%7C+Security;%F0%9F%93%96)](https://git.io/typing-svg)
 
 </div>
 
