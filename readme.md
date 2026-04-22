@@ -32,6 +32,24 @@
 
 ---
 
+## 🏗️ Featured Project
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusm2002&repo=simulated-enterprise-devops-infrastructure-lab&theme=tokyonight)](https://github.com/agusm2002/simulated-enterprise-devops-infrastructure-lab)
+
+</div>
+
+### 🔬 [Simulated Enterprise DevOps Infrastructure Lab](https://github.com/agusm2002/simulated-enterprise-devops-infrastructure-lab)
+
+**Stack utilizado:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🖥️ Operating Systems
