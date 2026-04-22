@@ -13,8 +13,7 @@
 
 - 🎓 Estudiante de Ingeniería en Informática
 - 🐧 Apasionado por Linux, infraestructura y automatización
-- 🔭 Actualmente enfocado en aprender **Linux avanzado + Ansible**
-- 🛠️ Me gusta construir cosas, romperlas y entender por qué funcionan
+- 🛠️ Me gusta construir cosas, entender cómo funcionan y mejorarlas continuamente.
 - 📍 Argentina
 
 ---
